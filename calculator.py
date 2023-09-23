@@ -3,6 +3,8 @@ y = int(input("enter the sec num. : "))
 
 sum = x + y
 d = x - y
+p = x*y
 
 print(sum , d)
 print("This is a calc.")
+print(p)
